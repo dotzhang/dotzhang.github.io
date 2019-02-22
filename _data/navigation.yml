@@ -7,6 +7,6 @@ main:
   - title: "关于我"
     url: https://hanwen.me
   - title: "赞助"
-    url: https://hanwen.me
+    url: /tags/
   - title: "联系"
     url: /categories/
