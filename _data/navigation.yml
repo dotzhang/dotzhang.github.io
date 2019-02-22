@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Latex 教程"
+    url: https://hanwen.me
+  - title: "论文写作"
+    url: https://hanwen.me
+  - title: "关于我"
+    url: https://hanwen.me
+  - title: "赞助"
+    url: https://hanwen.me
+  - title: "联系"
+    url: https://hanwen.me
