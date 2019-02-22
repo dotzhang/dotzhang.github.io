@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+* 座右铭：抬头看路，低头干活。  
+* 爱生活，爱阅读，爱运动，爱赚钱。  
+* 坚持相信的话：“努力不一定成功，但是不努力一定不会成功”。  
+* 有坚强的意志力，喜欢挑战。  
+* 这里分享自己的看法，记录一些成长。  
+* 运营着只有几百人的公众号，「dotzhang」分享技术和乐趣。  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
