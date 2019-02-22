@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: tags
 title:  "第二篇!"
 date:   2019-03-16 21:16:33 +0800
 categories: jekyll update
