@@ -3,9 +3,9 @@ main:
   - title: "Latex 教程"
     url: https://hanwen.me
   - title: "论文写作"
-    url: https://hanwen.me
+    url: /contact/
   - title: "关于我"
-    url: https://hanwen.me
+    url: /about/
   - title: "赞助"
     url: /tags/
   - title: "联系"
