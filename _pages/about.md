@@ -1,5 +1,4 @@
 ---
-title:  "关于我"
 permalink: /about/
 ---
 
@@ -29,9 +28,10 @@ permalink: /about/
 2018年，开始重拾旧操，有计划的积累并发表于公众号。  
 2019年，写此博客,并开始记录。
 
-## 其它平台
-| 名称 | 链接  |
-| ------ | ------ |
+## 其它平台   
+     
+| 名称 | 链接  |     
+| ------ | ------ |          
 |  GitHub |  [https://github.com/zhanwen](https://github.com/zhanwen)  |  
 |  知乎  |  [戳我进知乎](https://www.zhihu.com/people/funnyzhang/activities)  |  
 |  微博 |    [戳我看微博](https://weibo.com/hanwen521)|  
@@ -40,6 +40,7 @@ permalink: /about/
 |  QQ号 |  1106002609  |  
 |  微信公众号 |  dotzhang  |  
 
-<hr>
+
+<hr/>
 
 
