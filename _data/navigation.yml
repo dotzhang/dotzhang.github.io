@@ -4,9 +4,9 @@ main:
     url: https://hanwen.me
   - title: "论文写作"
     url: /contact/
+  - title: "分类"
+    url: /categories/
   - title: "关于我"
     url: /about/
   - title: "赞助"
     url: /support/
-  - title: "联系"
-    url: /categories/
