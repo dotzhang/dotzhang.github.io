@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Latex 教程"
-    url: https://hanwen.me
+    url: /categories/latex/
   - title: "论文写作"
-    url: /contact/
+    url: /categories/paper/
   - title: "分类"
     url: /categories/
   - title: "关于我"
