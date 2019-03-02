@@ -6,6 +6,7 @@ toc: true
 toc_label: "Latex 入门"
 toc_icon: "heart"
 ---
+{% include toc %}   
 本篇文章总结了 `LaTex` 最基本的语法，以及经常使用的语法，比如表格、图片、数学公式等。
 
 首先从一篇论文最开始的部分来看。
