@@ -3,6 +3,7 @@ layout: posts
 title:  "30 分钟快速入门 LaTex "
 categories: latex
 toc: true
+toc_sticky: true
 toc_label: "Latex 入门"
 toc_icon: "heart"
 ---
