@@ -3,6 +3,8 @@ layout: posts
 title:  "30 分钟快速入门 LaTex "
 categories: latex
 toc: true
+toc_label: "Latex 入门"
+toc_icon: "heart"
 ---
 本篇文章总结了 `LaTex` 最基本的语法，以及经常使用的语法，比如表格、图片、数学公式等。
 
